@@ -32,11 +32,11 @@ URL- ()
 
 ## Scrennshots
 
-![Untitled design](https://github.com/user-attachments/assets/d211d13d-d4d6-4433-8070-a557777a16cc)
 
-![vlcsnap-2024-10-21-19h28m58s640](https://github.com/user-attachments/assets/8fa30f18-c345-4a4a-a68d-e590f8cf977d)
-![vlcsnap-2024-10-21-19h28m37s652](https://github.com/user-attachments/assets/5765d19e-badf-4b7b-8180-e8c1580b7a1d)
-![vlcsnap-2024-10-21-19h29m24s286](https://github.com/user-attachments/assets/be2c3e21-ceed-466b-8931-565204c3e4ee)
-![vlcsnap-2024-10-21-19h29m15s413](https://github.com/user-attachments/assets/affc3839-5025-43a4-ad56-be7770a5a7c3)
-![vlcsnap-2024-10-21-19h29m09s216](https://github.com/user-attachments/assets/4ee2b883-b559-42e1-963d-484634dbfdf5)
+![Untitled design](https://github.com/user-attachments/assets/a9fe5ab4-90ce-4f6a-a29e-0f66d9ff7875)
 
+![vlcsnap-2024-10-21-19h28m58s640](https://github.com/user-attachments/assets/8aea997c-1c4c-4628-b222-42729087473a)
+![vlcsnap-2024-10-21-19h28m37s652](https://github.com/user-attachments/assets/d285a79a-067b-4c52-81f8-84fcf5f719f9)
+![vlcsnap-2024-10-21-19h29m24s286](https://github.com/user-attachments/assets/05b90525-8ce3-4427-8273-5f243b3f7b70)
+![vlcsnap-2024-10-21-19h29m15s413](https://github.com/user-attachments/assets/0ae02773-7993-4d7a-a674-51cd09bf5dc9)
+![vlcsnap-2024-10-21-19h29m09s216](https://github.com/user-attachments/assets/3e91593c-74ec-4191-823b-ca8710d292bd)
